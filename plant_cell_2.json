@@ -1,5 +1,5 @@
 {
-    "cellimage":"CORGameImages/plant_cell_round1",
+    "cellimage":"plant_cell_round2.png",
     "organelles":[ 
         {"name":"Cytoplasm", "dests":[{"x":-1.945423,"y":3.274648},{"x":-1.610915,"y":2.623239}]},
         {"name":"Lysosome", "dests":[{"x":-2.15669,"y":2.059859},{"x":-2.667254,"y":2.816901}]},
