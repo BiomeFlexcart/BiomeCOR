@@ -1,5 +1,5 @@
 {
     "games": [
-        {"name":"human_cell_1", "level":2, "filename":"human_cell_1"},
+        {"name":"human_cell_1", "level":2, "filename":"human_cell_1", "local":false}
     ]
 }
