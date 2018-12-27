@@ -2,7 +2,6 @@
     "games": [
         {"name":"human_cell_1", "level":2, "filename":"human_cell_1.json", "local":false},
         {"name":"human_cell_2", "level":3, "filename":"human_cell_2.json", "local":false},
-        {"name":"oogonium_1", "level":2, "filename":"oogonium_1.json", "local":false},
-        {"name":"plant_cell_2", "level":1, "filename":"plant_cell_2.json", "local":false}
+        {"name":"oogonium_1", "level":2, "filename":"oogonium_1.json", "local":false}
     ]
 }
