@@ -1,5 +1,5 @@
 {
-    "cellimage":"animal_cell_round10.png",
+    "cellimage":"animal_cell_round10.jpg",
     "organelles":[ 
         {"name":"Pinocytotic vesicle", "dests":[{"x":-0.730634,"y":2.464788},{"x":-1.364437,"y":1.232395},{"x":-0.8538732,"y":1.232395}]},
         {"name":"Golgi vesicles", "dests":[{"x":1.734155,"y":2.676057},{"x":0.9595068,"y":1.971831}]},
