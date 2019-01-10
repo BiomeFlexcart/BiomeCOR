@@ -9,6 +9,7 @@
         {"name":"Oogonium", "level":4, "filename":"oogonium_1.json", "local":false},
         {"name":"Plant Round 3", "level":3, "filename":"plant_cell_3.json", "local":false},
         {"name":"Plant Round 4", "level":3, "filename":"plant_cell_4.json", "local":false},
-        {"name":"Plant Round 5", "level":3, "filename":"plant_cell_5.json", "local":false}
+        {"name":"Plant Round 5", "level":3, "filename":"plant_cell_5.json", "local":false},
+        {"name":"Plant Round 6", "level":3, "filename":"plant_cell_6.json", "local":false}
     ]
 }
