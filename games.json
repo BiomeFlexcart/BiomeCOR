@@ -1,10 +1,10 @@
 {
     "games": [
         {"name":"Animal Cell Icons", "level":1, "filename":"animal_cell_10.json", "local":false},
-        {"name":"human_cell_1", "level":3, "filename":"human_cell_1.json", "local":false},
-        {"name":"human_cell_2", "level":3, "filename":"human_cell_2.json", "local":false},
-        {"name":"oogonium_1", "level":3, "filename":"oogonium_1.json", "local":false},
-        {"name":"plant_cell_3", "level":2, "filename":"plant_cell_3.json", "local":false},
-        {"name":"Plant Cell 3D", "level":2, "filename":"plant_cell_4.json", "local":false}
+        {"name":"Human Round 1", "level":3, "filename":"human_cell_1.json", "local":false},
+        {"name":"Human Round 2", "level":3, "filename":"human_cell_2.json", "local":false},
+        {"name":"Oogonium", "level":3, "filename":"oogonium_1.json", "local":false},
+        {"name":"Plant Round 3", "level":2, "filename":"plant_cell_3.json", "local":false},
+        {"name":"Plant Round 4", "level":2, "filename":"plant_cell_4.json", "local":false}
     ]
 }
