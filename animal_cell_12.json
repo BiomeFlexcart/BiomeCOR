@@ -1,5 +1,5 @@
 {
-    "cellimage":"animal_cell_12.png",
+    "cellimage":"animal_cell_round12.png",
     "organelles":[ 
         {"name":"Cilia", "dests":[{"x":1.046278,"y":3.138833},{"x":-0.3018111,"y":1.609658}]},
         {"name":"Cell membrane", "dests":[{"x":1.931588,"y":2.575453},{"x":1.146881,"y":1.38833}]},
