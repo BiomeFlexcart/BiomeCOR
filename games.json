@@ -3,6 +3,7 @@
         {"name":"Animal Round 9", "level":2, "filename":"animal_cell_10.json", "local":false},
         {"name":"Animal Round 10", "level":2, "filename":"animal_cell_11.json", "local":false},
         {"name":"Animal Round 11", "level":2, "filename":"animal_cell_12.json", "local":false},
+        {"name":"Animal Round 12", "level":2, "filename":"animal_cell_13.json", "local":false},
         {"name":"Human Round 2", "level":4, "filename":"human_cell_1.json", "local":false},
         {"name":"Human Round 3", "level":4, "filename":"human_cell_2.json", "local":false},
         {"name":"Oogonium", "level":4, "filename":"oogonium_1.json", "local":false},
