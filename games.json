@@ -14,6 +14,7 @@
         {"name":"Plant Round 4", "level":2, "filename":"plant_cell_3.json", "thumbnail":"plant_cell_round3_tn.png", "local":false, "image":null},
         {"name":"Plant Round 5", "level":2, "filename":"plant_cell_4.json", "thumbnail":"plant_cell_round4_tn.png", "local":false, "image":null},
         {"name":"Plant Round 6", "level":2, "filename":"plant_cell_5.json", "thumbnail":"plant_cell_round5_tn.png", "local":false, "image":null},
-        {"name":"Plant Round 7", "level":2, "filename":"plant_cell_6.json", "thumbnail":"plant_cell_round6_tn.png", "local":false, "image":null}
+        {"name":"Plant Round 7", "level":2, "filename":"plant_cell_6.json", "thumbnail":"plant_cell_round6_tn.png", "local":false, "image":null},
+        {"name":"Plant Round 8", "level":2, "filename":"plant_cell_41.json", "thumbnail":"plant_cell_round41_tn.png", "local":false, "image":null}
     ]
 }
