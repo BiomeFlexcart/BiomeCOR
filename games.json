@@ -7,6 +7,7 @@
         {"name":"Animal Round 12", "level":1, "filename":"animal_cell_14.json", "thumbnail":"animal_cell_round14_tn.png", "local":false, "image":null},
         {"name":"Animal Round 13", "level":1, "filename":"animal_cell_15.json", "thumbnail":"animal_cell_round15_tn.png", "local":false, "image":null},
         {"name":"Animal Round 14", "level":1, "filename":"animal_cell_41.json", "thumbnail":"animal_cell_round41_tn.png", "local":false, "image":null},
+        {"name":"Animal Mitosis Round 15", "level":1, "filename":"animal_mitosis_42.json", "thumbnail":"animal_mitosis_round42_tn.png", "local":false, "image":null},
         {"name":"Human Round 2", "level":3, "filename":"human_cell_1.json", "thumbnail":"human_cell_round1_tn.png", "local":false, "image":null},
         {"name":"Human Round 3", "level":3, "filename":"human_cell_2.json", "thumbnail":"human_cell_round2_tn.png", "local":false, "image":null},
         {"name":"Human Round 4", "level":3, "filename":"human_cell_4.json", "thumbnail":"human_cell_round3_tn.png", "local":false, "image":null},
