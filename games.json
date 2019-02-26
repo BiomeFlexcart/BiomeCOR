@@ -15,6 +15,7 @@
         {"name":"Human Round 2", "level":3, "filename":"human_cell_1.json", "thumbnail":"human_cell_round1_tn.png", "local":false, "image":null},
         {"name":"Human Round 3", "level":3, "filename":"human_cell_2.json", "thumbnail":"human_cell_round2_tn.png", "local":false, "image":null},
         {"name":"Human Round 4", "level":3, "filename":"human_cell_4.json", "thumbnail":"human_cell_round3_tn.png", "local":false, "image":null},
+        {"name":"Human Round 5", "level":3, "filename":"human_cell_5.json", "thumbnail":"human_cell_round5_tn.png", "local":false, "image":null},
         {"name":"Oogonium", "level":2, "filename":"oogonium_1.json", "thumbnail":"oogonium_round1_tn.png", "local":false, "image":null},
         {"name":"Plant Round 4", "level":2, "filename":"plant_cell_3.json", "thumbnail":"plant_cell_round3_tn.png", "local":false, "image":null},
         {"name":"Plant Round 5", "level":2, "filename":"plant_cell_4.json", "thumbnail":"plant_cell_round4_tn.png", "local":false, "image":null},
